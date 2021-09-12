@@ -11,7 +11,7 @@ namespace WebApplicationGitHub
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Label1.Text = "¡Hola mundo!";
+            Label1.Text = "¡Hola mundo 2!";
         }
     }
 }
