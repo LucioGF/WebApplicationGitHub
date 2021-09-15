@@ -11,7 +11,7 @@ namespace WebApplicationGitHub
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Label1.Text = "Esta es una prueba de cambio de código 2a";
+            Label1.Text = "Esta es una prueba de cambio de código Clone";
         }
     }
 }
